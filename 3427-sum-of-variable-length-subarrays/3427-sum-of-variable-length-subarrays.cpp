@@ -5,9 +5,9 @@ public:
         int ans=0;
 
         for(int i=0; i<n; i++){
-            int strt=max(0,i-nums[i]);
+            int start=max(0,i-nums[i]);
 
-            for(int j=strt; j<=i; j++){
+            for(int j=start; j<=i; j++){
                 ans+=nums[j];
             }
         }
