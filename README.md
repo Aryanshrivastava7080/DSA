@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
