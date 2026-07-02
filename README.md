@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
@@ -239,12 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
