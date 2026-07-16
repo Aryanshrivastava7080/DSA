@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
