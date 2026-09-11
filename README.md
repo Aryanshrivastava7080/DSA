@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Simulation
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
