@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
