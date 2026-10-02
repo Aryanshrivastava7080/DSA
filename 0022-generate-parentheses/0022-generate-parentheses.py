@@ -14,6 +14,7 @@ class Solution:
 
             if close < open:
                 generate(s + ")", open, close + 1)
+            
 
         generate("", 0, 0)
 
