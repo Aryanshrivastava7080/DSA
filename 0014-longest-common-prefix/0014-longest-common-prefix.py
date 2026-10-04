@@ -1,5 +1,5 @@
 class Solution:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
+    def longestCommonPrefix(self, strs: list[str]) -> str:
         ans=""
         prefix=strs[0]
 
@@ -13,4 +13,3 @@ class Solution:
             ans+=ch
 
         return ans
-
