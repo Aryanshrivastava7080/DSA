@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -468,4 +471,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
