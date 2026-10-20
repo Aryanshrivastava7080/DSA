@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
