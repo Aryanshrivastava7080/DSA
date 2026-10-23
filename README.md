@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Combinatorics
 |  |
 | ------- |
