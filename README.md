@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
