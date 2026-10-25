@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1254-number-of-closed-islands](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [1254-number-of-closed-islands](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [1254-number-of-closed-islands](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
