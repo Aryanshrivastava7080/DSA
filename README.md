@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
