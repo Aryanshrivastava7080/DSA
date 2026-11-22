@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
